@@ -1,2 +1,2 @@
-hhhhh# python-practice
+# python-practice
 i love python
