@@ -1,2 +1,2 @@
 # python-practice
-i love pythonj
+i love python
